@@ -1,0 +1,35 @@
+html{
+    background-color: black;
+}
+
+.header{
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
+nav{
+    background-color:black ;
+}
+
+.dropdown-item{
+    color: gold;
+    font-size: large;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+  
+    .dropdown-menu{
+        background-color: black;
+      }
+
+.navbar-text,
+.navbar-brand, 
+.nav-link{
+    color: #fff !important;
+}
+
+
+
+

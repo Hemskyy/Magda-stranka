@@ -1,0 +1,47 @@
+html{
+  background-color: #e0c1ac;
+}
+
+.header{
+  background-color: black;
+}
+
+body{
+  background-color: #e0c1ac;
+}
+nav{
+  background-color:black ;
+}
+
+
+.navbar-text,
+.navbar-brand, 
+.nav-link{
+  color: #fff !important;
+}
+
+.dropdown-item{
+  color: gold;
+  font-size: large;
+  font-weight: 800;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .dropdown-menu{
+    background-color: black;
+  }
+
+.product {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+.product img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.cart {
+  margin-top: 20px;
+  text-align: center;
+}
